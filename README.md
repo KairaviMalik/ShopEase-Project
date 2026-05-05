@@ -46,12 +46,12 @@ java -cp out Main
 
 ## 👤 Author
 
-**Name:** <!-- Kairavi Malik -->  
-**GitHub:** <!-- @KairaviMalik -->  
-**Institution:** <!-- University Of Petroleum & Energy Studies  -->  
+**Name:**  Kairavi Malik 
+**GitHub:** @KairaviMalik  
+**Institution:** University Of Petroleum & Energy Studies
 
 ## 🎓 Mentor
 
-**Name:** <!-- Dr.Kalluri Shareef Babu -->  
-**Designation:** <!-- Assistant Professor -->  
-**Institution:** <!-- UPES-->
+**Name:** Dr.Kalluri Shareef Babu   
+**Designation:**  Assistant Professor  
+**Institution:**  UPES
