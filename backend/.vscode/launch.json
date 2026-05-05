@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run ShopEase",
+            "request": "launch",
+            "mainClass": "shopease.ui.Main",
+            "projectName": "ShopEase",
+            "classPaths": [
+                "${workspaceFolder}/bin",
+                "${workspaceFolder}/lib/*"
+            ]
+        }
+    ]
+}
